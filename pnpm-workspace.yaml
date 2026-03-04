@@ -1,0 +1,8 @@
+ignoredBuiltDependencies:
+  - cozo-node
+  - esbuild
+  - node-pty
+  - onnxruntime-node
+  - protobufjs
+  - sharp
+  - unrs-resolver
